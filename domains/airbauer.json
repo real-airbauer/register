@@ -1,10 +1,10 @@
 {
     "owner": {
         "username": "real-airbauer",
-        "email": "airbauer2@gmail.com"
+        "email": "airbauer@pm.me"
     },
 
     "record": {
-        "TXT": ""
+        "CNAME": "real-airbauer.github.io"
     }
 }
